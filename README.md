@@ -7,5 +7,5 @@ My name is **David** and i'm coding in **Java**, **Lua** and **C#**.
 ![](https://img.shields.io/github/followers/redstonecrafthd?label=Followers)
 ![](https://img.shields.io/github/stars/redstonecrafthd?label=Stars)
 
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redstonecrafthd&show_icons=true&hide_border=true3" />
-    <img align="right" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redstonecrafthd&show_icons=true&hide_border=true" />
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redstonecrafthd&theme=gruvbox&count_private=true&show_icons=true&hide_border=true3" />
+    <img align="right" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redstonecrafthd&theme=gruvbox&count_private=true&show_icons=true&hide_border=true" />
