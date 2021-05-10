@@ -11,7 +11,7 @@ My name is **David** and i'm coding in **Java**, **Lua** and **C#**.
 <img align="right" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redstonecrafthd&theme=gruvbox&count_private=true&show_icons=true&hide_border=true" />
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 <h1 align="center">Check out my Projects</h1>
 
 <img align="left" alt="Croupier Discord Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=redstonecrafthd&repo=Croupier&theme=gruvbox"><a href="https://github.com/RedstonecraftHD/Croupier"></a></img>
