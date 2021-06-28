@@ -11,5 +11,3 @@ My name is **David** and i'm coding in **Java**, **Lua** and **C#**.
 <img align="right" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=redstonecrafthd&theme=gruvbox&count_private=true&show_icons=true&hide_border=true" />
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
-
-<img align="center" alt="My Coding Stats" src="https://wakatime.com/share/@Redi/b285c0ce-2577-493d-9e2c-eb88a84c2fb2.svg" />
