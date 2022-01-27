@@ -13,4 +13,3 @@ My name is **David** and i'm coding in **Java**, **Lua** and **C#**.
 <p align="center">
 <img alt="My GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=redcodesdev&theme=onedark" />
 </p>
-<br><br><br><br><br><br><br><br><br><br><br><br>
