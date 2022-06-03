@@ -1,6 +1,13 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+Name+is+David+😅;&center=true&size=30">
+  </a>
+</h1>
 
-My name is **David** and i'm coding in **Java**, **Lua** and **C#**.
+
+- 💻 Coding in Java, Lua and C#
+- 🎓 Going to school in germany
+- 🔊 Contact me over Discord [Redi#4308](https://discords.com/bio/p/redi)
 
 ![https://redcodes.dev/](https://img.shields.io/website?label=Redcodes.dev&style=for-the-badge&url=https%3A%2F%2Fredcodes.dev%2F)
 ![](https://img.shields.io/github/followers/redcodesdev?style=for-the-badge&logo=github)
