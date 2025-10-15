@@ -5,8 +5,8 @@
 </h1>
 
 
-- 💻 Coding in Java, Lua and C#
-- 🎓 Going to school in germany
+- 💻 Coding in Java, JS, Python and much more
+- 🎓 Studying Media-Computer-Science at THM
 - 🔊 Contact me over Discord [@redcodes](https://discords.com/bio/p/redi)
 
 ![https://redcodes.dev/](https://img.shields.io/website?label=Redcodes.dev&style=for-the-badge&url=https%3A%2F%2Fredcodes.dev%2F)
